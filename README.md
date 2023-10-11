@@ -1,3 +1,6 @@
+> [!NOTE]
+> The development of the project is currently on hold. 
+
 This Project is just started, all these release are early deveopment release. They are incremnetal changes which 
 i relese for testing by other tester. As auto aupdate is enabled in the application.
 
@@ -8,7 +11,7 @@ Meltred Desktop Release Assets
 
 These are build available for different os.
 
-> [!WARNING]
+> [!IMPORTANT]
 > Download your appropriate app from [here](https://github.com/meltred/desktop-release/releases/latest)
 
 ### For Linux : 
